@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/chirfxbj/MinecraftServerNet/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chirfxbj/MinecraftServerNet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 欢迎加入地灵殿服务器
+“地灵殿”是一个MinecraftJava版1.12.2的小型生存服务器，并将逐步开放Mod的使用。游玩时尽量使用[地灵殿客户端](https://chirfxbj.github.io/MinecraftServerNet/Clinet)，也可以加入QQ群：488270696获取地灵殿客户端（在群文件内）。服务器地址：chirfxbj.e2.luyouxia.net:30295
+## 更新日志
+* 增加MOD：暮色森林
+  - 增加前置MOD：帕秋莉手册
+  - 增加前置MOD：链接材质
+* 增加MOD：建筑工艺
+* 增加MOD：拔刀剑
+* 增加MOD：自定义NPC
+* 增加加载器 Forge14.23.5.2854
